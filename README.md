@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://li-shen-amy.github.io/profile/images/projects/ephys_ana.jpg" />
+  <img src="https://li-shen-amy.github.io/profile/images/projects/whole_cell.jpg" />
 </p>
 
 # Whole Cell Patch Clamp Data Analysis
